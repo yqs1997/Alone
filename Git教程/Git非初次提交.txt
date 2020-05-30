@@ -1,0 +1,6 @@
+远程仓库地址:https://github.com/yqs1997/Alone.git
+1.git add .                                                    添加加文件到暂存区 
+2.git commit  -m ' 模描述性内容'                  提交文件到仓库
+4.git reote add origin 远程仓库地址              关联远程仓库地址
+5.git pull --rebase origin master                   将文件和远程仓库进行合并
+6.git  push  -u origin  master                         输入用户名和密码上传文件
